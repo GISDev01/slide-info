@@ -1,0 +1,17 @@
+{
+  "name": "SlideInfos",
+  "platform": "HTML3D",
+  "2D": false,
+  "3D": true,
+  "version": "2.22",
+  "wabVersion": "2.22",
+  "author": "GD1",
+  "description": "Info for slides",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "inPanel": false,
+    "hasConfig": false,
+    "supportMultiInstance": false
+  }
+}

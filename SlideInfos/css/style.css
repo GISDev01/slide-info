@@ -1,0 +1,9 @@
+.jimu-widget-slideinfos {
+    position: absolute !important;
+    top: 10px !important;
+    left: 45px !important;
+    margin: auto !important;
+    background-color: white;
+    color: black;
+    font-size: medium;
+}
